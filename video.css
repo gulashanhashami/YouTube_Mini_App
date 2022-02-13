@@ -1,0 +1,35 @@
+#navb{
+          
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+#imgnav{
+margin-left: 50px;
+width:150px;
+height:50px;
+}
+#videobox{
+
+  width: 60%;
+  height: 470px;
+  margin-left: 30px;
+}
+#img2{
+float: right;
+margin-left: 50px;
+width:25px;
+height:23px;
+margin-right: 30px;
+margin-top: 15px;
+}
+#img3{
+float: right;
+margin-top: 15px;
+margin-right: 30px;
+width:27px;
+height:25px;
+}
+h3{
+margin-left: 60px;
+}

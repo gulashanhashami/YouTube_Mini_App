@@ -1,0 +1,53 @@
+#navb{
+           
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+#name{
+   
+    width: 50%;
+    height: 33px;
+    margin-left: 0px;
+    outline: 0;
+}
+#searchRe{
+margin-top: 2%;
+  width: 100%;
+  height: 575px;
+ 
+  display: grid;
+  grid-gap: 1%;
+  grid-template-columns: repeat(4,25%);
+  font-family: sans-serif;
+  justify-content:space-between;
+ overflow-y: scroll;
+ overflow-x: none;
+}
+#imgv{
+  width: 320px;
+  height: 200;
+}
+#btn{
+ 
+  height: 40px;
+  width: 62px;
+}
+#imgnav{
+margin-left: 10px;
+width:150px;
+height:37px;
+}
+#img2{
+margin-left: 50px;
+width:25px;
+height:23px;
+}
+#img3{
+margin-left: 55px;
+width:27px;
+height:25px;
+}
+#img{
+ float: right;
+}
